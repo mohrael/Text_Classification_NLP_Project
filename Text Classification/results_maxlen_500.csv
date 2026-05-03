@@ -1,0 +1,5 @@
+Experiment,loss,accuracy
+GloVe-50d | 80/20,0.1891,0.9135
+GloVe-50d | 70/30,0.2231,0.9052
+Word2Vec | 80/20,0.125,0.9334
+Word2Vec | 70/30,0.1414,0.9306
